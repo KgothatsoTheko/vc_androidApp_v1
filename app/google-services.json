@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718397920440",
+    "project_id": "vc-app-v1",
+    "storage_bucket": "vc-app-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718397920440:android:22cc48b89bb9486d8e504d",
+        "android_client_info": {
+          "package_name": "za.co.varsitycollege.st10092141.vc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3vX-jXvloLRM82gIiD3CQLtDbbizDm5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
